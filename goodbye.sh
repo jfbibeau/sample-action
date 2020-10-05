@@ -1,4 +1,1 @@
-echo "Goodbye"
-hostname
-date
-uname -a
+echo "Goodbye prod"
